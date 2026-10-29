@@ -105,7 +105,7 @@ The project is implemented as a single HTML file containing:
 
 ## Authors
 
-**Lakshya Shonak** --- 26MCC20059
+**Nikhil Raghuwanshi** --- 26MCC20075
 
 **Chandigarh University**\
 University Institute of Computing\
